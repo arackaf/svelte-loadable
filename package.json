@@ -1,13 +1,13 @@
 {
   "name": "@arackaf-svelte/svelte-loadable",
   "access": "public",
-  "version": "1.5.0",
+  "version": "1.6.1",
   "license": "MIT",
   "main": "Loadable.svelte",
   "svelte": "Loadable.svelte",
   "description": "Dynamically load a svelte component",
   "author": "Christian Kaisermann <christian@kaisermann.me>",
-  "repository": "https://github.com/kaisermann/svelte-loadable",
+  "repository": "https://github.com/arackaf/svelte-loadable",
   "keywords": [
     "svelte",
     "async",
